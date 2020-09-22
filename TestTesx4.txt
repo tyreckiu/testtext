@@ -1,1 +1,27 @@
 123
+
+sdafsdaf
+sadfsadfdf
+dsfasdfdfs
+
+
+
+asdfsdfasdf
+
+
+asdfsadfsadf
+
+
+sadfsadfdsgrewgergwer
+	
+	qwe12e
+	if = 123
+	elso= 123123123
+	print = 123123
+#___________________________________________________
+#working epta
+#Testing git
+#working to the may banch 
+#____________________________________________________
+lists = [10/20/30/40/50/60/70/80/90/00
+
